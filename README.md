@@ -8,4 +8,4 @@ This checker only works for voucher/code based peso WiFi, also it doesn't mean t
 4. Logs success and invalid code res length to identify if invalid or valid (I know there's better method for this shit)
 5. Run `python or python3 eiiyz.py`
 
-![eut](https://github.com/eiiyz/peso-wifi/blob/main/eiiyz.png)
+![eut](https://github.com/eiiyz/peso-wifi/blob/main/unnamed.jpg)
