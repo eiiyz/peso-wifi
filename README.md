@@ -8,6 +8,4 @@ This checker only works for voucher/code based piso WiFi, also it doesn't mean t
 4. Logs success and invalid code res length to identify if invalid or valid (I know there's better method for this shit)
 5. Run `python or python3 eiiyz.py`
 
-- Ginawa ko lang to kase pa wala wala internet samin, biglaan langz :))
-- First time ko po sa Python, don't judge the judge by the judge <3
 ![eut](https://github.com/eiiyz/peso-wifi/blob/main/unnamed.jpg)
