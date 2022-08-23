@@ -9,4 +9,5 @@ This checker only works for voucher/code based piso WiFi, also it doesn't mean t
 5. Run `python or python3 eiiyz.py`
 
 - Ginawa ko lang to kase pa wala wala internet samin, biglaan langz :))
+- First time ko po sa Python, don't judge the judge by the judge <3
 ![eut](https://github.com/eiiyz/peso-wifi/blob/main/unnamed.jpg)
